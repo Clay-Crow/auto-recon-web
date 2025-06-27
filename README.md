@@ -29,6 +29,8 @@ Pour exécuter ces scripts, vous devez avoir les outils suivants installés sur 
 - **waybackurls**: Un outil pour récupérer toutes les URLs connues pour un domaine à partir de la Wayback Machine.
   - Installation: `go install github.com/tomnomnom/waybackurls@latest`
 - **wget**: Un utilitaire de ligne de commande pour télécharger des fichiers depuis le web. Généralement préinstallé sur la plupart des systèmes Linux.
+- **sublist3r**: Sublist3r est un outil Python conçu pour énumérer les sous-domaines de sites Web en utilisant OSINT. .
+  - Installation: `sudo apt install sublis3r`
 
 Assurez-vous que votre `$GOPATH/bin` est dans votre `$PATH` pour que les outils Go soient accessibles depuis n'importe quel répertoire.
 
