@@ -43,8 +43,8 @@ export PATH=$PATH:$(go env GOPATH)/bin
 1. Clonez ce dépôt GitHub ou téléchargez les scripts directement:
 
    ```bash
-   git clone https://github.com/votre_utilisateur/recon_scripts.git
-   cd recon_scripts
+   git clone https://github.com/Clay-Crow/auto-recon-web.git
+   cd auto-recon-web
    ```
 
 2. Rendez les scripts exécutables:
